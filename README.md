@@ -1,7 +1,7 @@
 # Hotel-Booking-Service
 This repository contains our course project for CSI2132. 
 <br><br>
-A web application was developed and connected to a SQL database to provide booking services for hotels.
+A web application was developed and connected to our developed SQL database to provide booking services for hotels.
 <br><br>
 Following database concepts, an ER Diagram and Relational Database Schema were created.
 
@@ -11,8 +11,6 @@ Following database concepts, an ER Diagram and Relational Database Schema were c
 - Michael Massaad
 
 ## Run Instructions
-### Live Server
-Visit the live website at [https://matinhmobini.github.io/CSI_2132_Databases_1/](https://matinhmobini.github.io/CSI_2132_Databases_1/).
 ### Development Server
 1. Clone project and navigate to directory
 ```
